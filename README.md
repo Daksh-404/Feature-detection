@@ -11,6 +11,12 @@ The code is mainly inspired from the official openCV site : https://docs.opencv.
 - File paths and binary files of images
 - Photo editing and hunting
 
-### The Original Image:
+**NOTE**: If you want to explore how to start coding in openCV on your MacOS, using XCode, then I have another repository available, named openCV-MacOS-setup.
+
+### The First Original Image:
+
+![original image](objects.jpeg)
+
+### The Second(edited) Original Image:
 
 
