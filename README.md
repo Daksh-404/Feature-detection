@@ -17,9 +17,12 @@ The code is mainly inspired from the official openCV site : https://docs.opencv.
 
 ![original image](objects.jpeg)
 
+
 ### The Second(edited) Original Image:
 
 ![edited_image](objectscopy.jpeg)
 
+
 ### The Final Result/Feature Matching:
 
+![Feature Matching](feature_matching.jpeg)
