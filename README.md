@@ -11,7 +11,7 @@ The code is mainly inspired from the official openCV site : https://docs.opencv.
 - File paths and binary files of images
 - Photo editing and hunting
 
-**NOTE**: If you want to explore how to start coding in openCV on your MacOS, using XCode, then I have another repository available, named openCV-MacOS-setup.
+**NOTE**: If you want to know how to setup openCV on your MacOS, using XCode and HomeBrew, then I have another repository available, named openCV-MacOS-setup.
 
 ### The First Original Image:
 
@@ -19,4 +19,7 @@ The code is mainly inspired from the official openCV site : https://docs.opencv.
 
 ### The Second(edited) Original Image:
 
+![edited_image](objectscopy.jpeg)
+
+### The Final Result/Feature Matching:
 
