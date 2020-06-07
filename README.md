@@ -26,3 +26,10 @@ The code is mainly inspired from the official openCV site : https://docs.opencv.
 ### The Final Result/Feature Matching:
 
 ![Feature Matching](feature_matching.jpeg)
+
+
+## Observations:
+We can observe the fact that the second(edited) image has not only been scaled but also rotated, however irrespective of that, the FLANN matcher using the Descriptors is able to , match the corrosponding points properly. Thus it's able to identify the camera out of the whole image, using SURF. Extraction of keypoints and descriptors in SIFT, can be found in this repo(https://github.com/Daksh-404/SIFT-algo-self).
+
+## Authors
+OpenCV Dev Team
